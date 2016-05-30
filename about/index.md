@@ -14,12 +14,13 @@ Minimal Mistakes is responsive Jekyll theme with large featured images and solid
 
 ## Minimal Mistakes is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Nama : Mukhtar Lutfi
+* Kelas : SIF C 
+* Angkatan : 2013
+* Jurusan : Sistem Informasi
+* Fakultas : Sains dan Teknologi
+* Universitas : UIN Suska Riau
+* [Vainglory](http://sif.uin-suska.ac.id//http://uin-suska.ac.id/) to
+* (http://sif.uin-suska.ac.id//http://uin-suska.ac.id/)
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
